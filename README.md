@@ -1,6 +1,6 @@
 # FEI Smile Detection
 
-This is a project for detecting smiles, using the FEI face dataset, folder b (subjects smiling). I manually tightly annotated every smile on the images, and converted the original images to PNG for better overall training performance.
+This is a CNN project for detecting smiles, using the FEI face dataset, folder b (subjects smiling). I manually tightly annotated every smile on the images, and converted the original images to PNG for better overall training performance.
 
 Achieved with Dlib's MMOD (deep learning) in C++. Several runs were conducted in order to find the best detector window.
 FEI dataset provides 200 images with smiling subjects, but some of them were discarded, resulting in 190 images.

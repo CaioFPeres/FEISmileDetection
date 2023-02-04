@@ -8,3 +8,6 @@ FEI dataset provides 200 images with smiling subjects, but some of them were dis
 I didn't select a testing group in this project, but evaluated the model using myself with a webcam, and although we had access to a small number of images, it achieved good performance.
 
 Most of the time, detections would be smaller on width than the annotated bounding boxes. Maybe tighting the bounding boxes wasn't a good idea.
+
+
+![alt text](https://github.com/CaioFPeres/FEISmileDetection/blob/master/demo.png?raw=true)

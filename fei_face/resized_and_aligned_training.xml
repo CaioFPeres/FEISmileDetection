@@ -1,0 +1,957 @@
+<?xml version="1.0" ?>
+<dataset>
+	<name>Training faces</name>
+	<comment>Annotated faces from FEI dataset</comment>
+	<images>
+		<image file="cropped/100b.png" width="250" height="250">
+			<box top="100" left="75" width="100" height="49">
+				<label>smile</label>
+			</box>
+		</image>
+		<image file="cropped/101b.png" width="250" height="250">
+			<box top="102" left="75" width="100" height="46">
+				<label>smile</label>
+			</box>
+		</image>
+		<image file="cropped/102b.png" width="250" height="250">
+			<box top="99" left="75" width="100" height="52">
+				<label>smile</label>
+			</box>
+		</image>
+		<image file="cropped/103b.png" width="250" height="250">
+			<box top="106" left="74" width="100" height="38">
+				<label>smile</label>
+			</box>
+		</image>
+		<image file="cropped/104b.png" width="250" height="250">
+			<box top="100" left="75" width="99" height="50">
+				<label>smile</label>
+			</box>
+		</image>
+		<image file="cropped/105b.png" width="250" height="250">
+			<box top="101" left="74" width="100" height="47">
+				<label>smile</label>
+			</box>
+		</image>
+		<image file="cropped/106b.png" width="250" height="250">
+			<box top="96" left="75" width="100" height="57">
+				<label>smile</label>
+			</box>
+		</image>
+		<image file="cropped/107b.png" width="250" height="250">
+			<box top="96" left="75" width="100" height="56">
+				<label>smile</label>
+			</box>
+		</image>
+		<image file="cropped/108b.png" width="250" height="250">
+			<box top="103" left="74" width="100" height="43">
+				<label>smile</label>
+			</box>
+		</image>
+		<image file="cropped/109b.png" width="250" height="250">
+			<box top="101" left="74" width="100" height="47">
+				<label>smile</label>
+			</box>
+		</image>
+		<image file="cropped/10b.png" width="250" height="250">
+			<box top="98" left="75" width="100" height="54">
+				<label>smile</label>
+			</box>
+		</image>
+		<image file="cropped/111b.png" width="250" height="250">
+			<box top="99" left="75" width="100" height="51">
+				<label>smile</label>
+			</box>
+		</image>
+		<image file="cropped/112b.png" width="250" height="250">
+			<box top="106" left="74" width="100" height="37">
+				<label>smile</label>
+			</box>
+		</image>
+		<image file="cropped/113b.png" width="250" height="250">
+			<box top="109" left="74" width="100" height="30">
+				<label>smile</label>
+			</box>
+		</image>
+		<image file="cropped/114b.png" width="250" height="250">
+			<box top="100" left="75" width="100" height="50">
+				<label>smile</label>
+			</box>
+		</image>
+		<image file="cropped/115b.png" width="250" height="250">
+			<box top="104" left="75" width="99" height="41">
+				<label>smile</label>
+			</box>
+		</image>
+		<image file="cropped/116b.png" width="250" height="250">
+			<box top="105" left="74" width="100" height="40">
+				<label>smile</label>
+			</box>
+		</image>
+		<image file="cropped/117b.png" width="250" height="250">
+			<box top="104" left="75" width="99" height="42">
+				<label>smile</label>
+			</box>
+		</image>
+		<image file="cropped/118b.png" width="250" height="250">
+			<box top="108" left="75" width="100" height="33">
+				<label>smile</label>
+			</box>
+		</image>
+		<image file="cropped/119b.png" width="250" height="250">
+			<box top="98" left="75" width="100" height="54">
+				<label>smile</label>
+			</box>
+		</image>
+		<image file="cropped/11b.png" width="250" height="250">
+			<box top="108" left="75" width="100" height="34">
+				<label>smile</label>
+			</box>
+		</image>
+		<image file="cropped/120b.png" width="250" height="250">
+			<box top="104" left="75" width="100" height="41">
+				<label>smile</label>
+			</box>
+		</image>
+		<image file="cropped/121b.png" width="250" height="250">
+			<box top="107" left="75" width="100" height="37">
+				<label>smile</label>
+			</box>
+		</image>
+		<image file="cropped/122b.png" width="250" height="250">
+			<box top="105" left="74" width="100" height="41">
+				<label>smile</label>
+			</box>
+		</image>
+		<image file="cropped/123b.png" width="250" height="250">
+			<box top="102" left="74" width="100" height="46">
+				<label>smile</label>
+			</box>
+		</image>
+		<image file="cropped/124b.png" width="250" height="250">
+			<box top="105" left="74" width="100" height="40">
+				<label>smile</label>
+			</box>
+		</image>
+		<image file="cropped/125b.png" width="250" height="250">
+			<box top="102" left="74" width="100" height="46">
+				<label>smile</label>
+			</box>
+		</image>
+		<image file="cropped/126b.png" width="250" height="250">
+			<box top="103" left="74" width="100" height="43">
+				<label>smile</label>
+			</box>
+		</image>
+		<image file="cropped/127b.png" width="250" height="250">
+			<box top="101" left="75" width="99" height="48">
+				<label>smile</label>
+			</box>
+		</image>
+		<image file="cropped/128b.png" width="250" height="250">
+			<box top="101" left="75" width="100" height="48">
+				<label>smile</label>
+			</box>
+		</image>
+		<image file="cropped/129b.png" width="250" height="250">
+			<box top="102" left="74" width="100" height="45">
+				<label>smile</label>
+			</box>
+		</image>
+		<image file="cropped/12b.png" width="250" height="250">
+			<box top="100" left="75" width="100" height="49">
+				<label>smile</label>
+			</box>
+		</image>
+		<image file="cropped/130b.png" width="250" height="250">
+			<box top="98" left="75" width="100" height="54">
+				<label>smile</label>
+			</box>
+		</image>
+		<image file="cropped/131b.png" width="250" height="250">
+			<box top="104" left="75" width="100" height="43">
+				<label>smile</label>
+			</box>
+		</image>
+		<image file="cropped/132b.png" width="250" height="250">
+			<box top="100" left="75" width="100" height="50">
+				<label>smile</label>
+			</box>
+		</image>
+		<image file="cropped/133b.png" width="250" height="250">
+			<box top="108" left="75" width="100" height="34">
+				<label>smile</label>
+			</box>
+		</image>
+		<image file="cropped/134b.png" width="250" height="250">
+			<box top="100" left="74" width="100" height="51">
+				<label>smile</label>
+			</box>
+		</image>
+		<image file="cropped/135b.png" width="250" height="250">
+			<box top="104" left="75" width="99" height="41">
+				<label>smile</label>
+			</box>
+		</image>
+		<image file="cropped/136b.png" width="250" height="250">
+			<box top="103" left="75" width="100" height="43">
+				<label>smile</label>
+			</box>
+		</image>
+		<image file="cropped/137b.png" width="250" height="250">
+			<box top="104" left="75" width="99" height="42">
+				<label>smile</label>
+			</box>
+		</image>
+		<image file="cropped/138b.png" width="250" height="250">
+			<box top="102" left="74" width="100" height="47">
+				<label>smile</label>
+			</box>
+		</image>
+		<image file="cropped/139b.png" width="250" height="250">
+			<box top="100" left="75" width="100" height="49">
+				<label>smile</label>
+			</box>
+		</image>
+		<image file="cropped/13b.png" width="250" height="250">
+			<box top="105" left="75" width="100" height="38">
+				<label>smile</label>
+			</box>
+		</image>
+		<image file="cropped/140b.png" width="250" height="250">
+			<box top="99" left="75" width="100" height="52">
+				<label>smile</label>
+			</box>
+		</image>
+		<image file="cropped/141b.png" width="250" height="250">
+			<box top="104" left="75" width="100" height="42">
+				<label>smile</label>
+			</box>
+		</image>
+		<image file="cropped/142b.png" width="250" height="250">
+			<box top="101" left="75" width="100" height="48">
+				<label>smile</label>
+			</box>
+		</image>
+		<image file="cropped/144b.png" width="250" height="250">
+			<box top="104" left="75" width="100" height="41">
+				<label>smile</label>
+			</box>
+		</image>
+		<image file="cropped/145b.png" width="250" height="250">
+			<box top="104" left="75" width="100" height="41">
+				<label>smile</label>
+			</box>
+		</image>
+		<image file="cropped/146b.png" width="250" height="250">
+			<box top="104" left="75" width="100" height="40">
+				<label>smile</label>
+			</box>
+		</image>
+		<image file="cropped/147b.png" width="250" height="250">
+			<box top="99" left="75" width="100" height="50">
+				<label>smile</label>
+			</box>
+		</image>
+		<image file="cropped/149b.png" width="250" height="250">
+			<box top="103" left="74" width="100" height="44">
+				<label>smile</label>
+			</box>
+		</image>
+		<image file="cropped/14b.png" width="250" height="250">
+			<box top="108" left="75" width="100" height="34">
+				<label>smile</label>
+			</box>
+		</image>
+		<image file="cropped/150b.png" width="250" height="250">
+			<box top="98" left="75" width="100" height="54">
+				<label>smile</label>
+			</box>
+		</image>
+		<image file="cropped/151b.png" width="250" height="250">
+			<box top="101" left="75" width="100" height="46">
+				<label>smile</label>
+			</box>
+		</image>
+		<image file="cropped/152b.png" width="250" height="250">
+			<box top="99" left="75" width="99" height="51">
+				<label>smile</label>
+			</box>
+		</image>
+		<image file="cropped/153b.png" width="250" height="250">
+			<box top="105" left="75" width="100" height="40">
+				<label>smile</label>
+			</box>
+		</image>
+		<image file="cropped/154b.png" width="250" height="250">
+			<box top="102" left="75" width="100" height="47">
+				<label>smile</label>
+			</box>
+		</image>
+		<image file="cropped/155b.png" width="250" height="250">
+			<box top="103" left="75" width="100" height="44">
+				<label>smile</label>
+			</box>
+		</image>
+		<image file="cropped/156b.png" width="250" height="250">
+			<box top="100" left="75" width="100" height="51">
+				<label>smile</label>
+			</box>
+		</image>
+		<image file="cropped/157b.png" width="250" height="250">
+			<box top="101" left="75" width="100" height="47">
+				<label>smile</label>
+			</box>
+		</image>
+		<image file="cropped/158b.png" width="250" height="250">
+			<box top="101" left="74" width="100" height="48">
+				<label>smile</label>
+			</box>
+		</image>
+		<image file="cropped/159b.png" width="250" height="250">
+			<box top="99" left="75" width="100" height="51">
+				<label>smile</label>
+			</box>
+		</image>
+		<image file="cropped/15b.png" width="250" height="250">
+			<box top="103" left="75" width="100" height="44">
+				<label>smile</label>
+			</box>
+		</image>
+		<image file="cropped/160b.png" width="250" height="250">
+			<box top="106" left="75" width="100" height="38">
+				<label>smile</label>
+			</box>
+		</image>
+		<image file="cropped/161b.png" width="250" height="250">
+			<box top="104" left="75" width="100" height="43">
+				<label>smile</label>
+			</box>
+		</image>
+		<image file="cropped/162b.png" width="250" height="250">
+			<box top="100" left="75" width="100" height="49">
+				<label>smile</label>
+			</box>
+		</image>
+		<image file="cropped/163b.png" width="250" height="250">
+			<box top="107" left="74" width="100" height="37">
+				<label>smile</label>
+			</box>
+		</image>
+		<image file="cropped/165b.png" width="250" height="250">
+			<box top="100" left="74" width="100" height="50">
+				<label>smile</label>
+			</box>
+		</image>
+		<image file="cropped/166b.png" width="250" height="250">
+			<box top="103" left="74" width="100" height="44">
+				<label>smile</label>
+			</box>
+		</image>
+		<image file="cropped/167b.png" width="250" height="250">
+			<box top="102" left="75" width="100" height="47">
+				<label>smile</label>
+			</box>
+		</image>
+		<image file="cropped/168b.png" width="250" height="250">
+			<box top="103" left="74" width="100" height="43">
+				<label>smile</label>
+			</box>
+		</image>
+		<image file="cropped/169b.png" width="250" height="250">
+			<box top="103" left="74" width="100" height="44">
+				<label>smile</label>
+			</box>
+		</image>
+		<image file="cropped/16b.png" width="250" height="250">
+			<box top="103" left="75" width="100" height="43">
+				<label>smile</label>
+			</box>
+		</image>
+		<image file="cropped/170b.png" width="250" height="250">
+			<box top="103" left="74" width="100" height="42">
+				<label>smile</label>
+			</box>
+		</image>
+		<image file="cropped/171b.png" width="250" height="250">
+			<box top="101" left="75" width="100" height="48">
+				<label>smile</label>
+			</box>
+		</image>
+		<image file="cropped/172b.png" width="250" height="250">
+			<box top="103" left="74" width="100" height="43">
+				<label>smile</label>
+			</box>
+		</image>
+		<image file="cropped/173b.png" width="250" height="250">
+			<box top="110" left="75" width="100" height="30">
+				<label>smile</label>
+			</box>
+		</image>
+		<image file="cropped/174b.png" width="250" height="250">
+			<box top="103" left="74" width="100" height="42">
+				<label>smile</label>
+			</box>
+		</image>
+		<image file="cropped/175b.png" width="250" height="250">
+			<box top="98" left="75" width="100" height="54">
+				<label>smile</label>
+			</box>
+		</image>
+		<image file="cropped/176b.png" width="250" height="250">
+			<box top="98" left="75" width="100" height="54">
+				<label>smile</label>
+			</box>
+		</image>
+		<image file="cropped/177b.png" width="250" height="250">
+			<box top="103" left="75" width="100" height="43">
+				<label>smile</label>
+			</box>
+		</image>
+		<image file="cropped/178b.png" width="250" height="250">
+			<box top="102" left="74" width="100" height="45">
+				<label>smile</label>
+			</box>
+		</image>
+		<image file="cropped/179b.png" width="250" height="250">
+			<box top="101" left="75" width="100" height="47">
+				<label>smile</label>
+			</box>
+		</image>
+		<image file="cropped/17b.png" width="250" height="250">
+			<box top="102" left="74" width="100" height="46">
+				<label>smile</label>
+			</box>
+		</image>
+		<image file="cropped/181b.png" width="250" height="250">
+			<box top="105" left="74" width="100" height="41">
+				<label>smile</label>
+			</box>
+		</image>
+		<image file="cropped/182b.png" width="250" height="250">
+			<box top="98" left="75" width="100" height="54">
+				<label>smile</label>
+			</box>
+		</image>
+		<image file="cropped/183b.png" width="250" height="250">
+			<box top="101" left="75" width="100" height="48">
+				<label>smile</label>
+			</box>
+		</image>
+		<image file="cropped/184b.png" width="250" height="250">
+			<box top="102" left="74" width="100" height="45">
+				<label>smile</label>
+			</box>
+		</image>
+		<image file="cropped/187b.png" width="250" height="250">
+			<box top="105" left="74" width="100" height="40">
+				<label>smile</label>
+			</box>
+		</image>
+		<image file="cropped/188b.png" width="250" height="250">
+			<box top="97" left="74" width="100" height="55">
+				<label>smile</label>
+			</box>
+		</image>
+		<image file="cropped/189b.png" width="250" height="250">
+			<box top="104" left="74" width="100" height="43">
+				<label>smile</label>
+			</box>
+		</image>
+		<image file="cropped/18b.png" width="250" height="250">
+			<box top="102" left="74" width="100" height="46">
+				<label>smile</label>
+			</box>
+		</image>
+		<image file="cropped/190b.png" width="250" height="250">
+			<box top="100" left="75" width="99" height="49">
+				<label>smile</label>
+			</box>
+		</image>
+		<image file="cropped/191b.png" width="250" height="250">
+			<box top="99" left="75" width="100" height="50">
+				<label>smile</label>
+			</box>
+		</image>
+		<image file="cropped/192b.png" width="250" height="250">
+			<box top="107" left="75" width="100" height="37">
+				<label>smile</label>
+			</box>
+		</image>
+		<image file="cropped/193b.png" width="250" height="250">
+			<box top="99" left="75" width="100" height="53">
+				<label>smile</label>
+			</box>
+		</image>
+		<image file="cropped/195b.png" width="250" height="250">
+			<box top="102" left="75" width="100" height="44">
+				<label>smile</label>
+			</box>
+		</image>
+		<image file="cropped/196b.png" width="250" height="250">
+			<box top="101" left="74" width="100" height="47">
+				<label>smile</label>
+			</box>
+		</image>
+		<image file="cropped/197b.png" width="250" height="250">
+			<box top="105" left="74" width="100" height="41">
+				<label>smile</label>
+			</box>
+		</image>
+		<image file="cropped/198b.png" width="250" height="250">
+			<box top="106" left="75" width="100" height="36">
+				<label>smile</label>
+			</box>
+		</image>
+		<image file="cropped/199b.png" width="250" height="250">
+			<box top="100" left="75" width="100" height="51">
+				<label>smile</label>
+			</box>
+		</image>
+		<image file="cropped/1b.png" width="250" height="250">
+			<box top="111" left="74" width="100" height="28">
+				<label>smile</label>
+			</box>
+		</image>
+		<image file="cropped/200b.png" width="250" height="250">
+			<box top="105" left="74" width="100" height="41">
+				<label>smile</label>
+			</box>
+		</image>
+		<image file="cropped/20b.png" width="250" height="250">
+			<box top="102" left="74" width="100" height="44">
+				<label>smile</label>
+			</box>
+		</image>
+		<image file="cropped/21b.png" width="250" height="250">
+			<box top="104" left="75" width="100" height="42">
+				<label>smile</label>
+			</box>
+		</image>
+		<image file="cropped/22b.png" width="250" height="250">
+			<box top="101" left="74" width="100" height="48">
+				<label>smile</label>
+			</box>
+		</image>
+		<image file="cropped/23b.png" width="250" height="250">
+			<box top="101" left="75" width="100" height="48">
+				<label>smile</label>
+			</box>
+		</image>
+		<image file="cropped/24b.png" width="250" height="250">
+			<box top="107" left="74" width="100" height="34">
+				<label>smile</label>
+			</box>
+		</image>
+		<image file="cropped/25b.png" width="250" height="250">
+			<box top="105" left="74" width="100" height="40">
+				<label>smile</label>
+			</box>
+		</image>
+		<image file="cropped/26b.png" width="250" height="250">
+			<box top="101" left="75" width="100" height="48">
+				<label>smile</label>
+			</box>
+		</image>
+		<image file="cropped/27b.png" width="250" height="250">
+			<box top="103" left="75" width="100" height="43">
+				<label>smile</label>
+			</box>
+		</image>
+		<image file="cropped/28b.png" width="250" height="250">
+			<box top="102" left="74" width="100" height="44">
+				<label>smile</label>
+			</box>
+		</image>
+		<image file="cropped/29b.png" width="250" height="250">
+			<box top="106" left="74" width="100" height="37">
+				<label>smile</label>
+			</box>
+		</image>
+		<image file="cropped/2b.png" width="250" height="250">
+			<box top="103" left="75" width="100" height="45">
+				<label>smile</label>
+			</box>
+		</image>
+		<image file="cropped/30b.png" width="250" height="250">
+			<box top="104" left="75" width="100" height="42">
+				<label>smile</label>
+			</box>
+		</image>
+		<image file="cropped/31b.png" width="250" height="250">
+			<box top="111" left="74" width="100" height="27">
+				<label>smile</label>
+			</box>
+		</image>
+		<image file="cropped/32b.png" width="250" height="250">
+			<box top="104" left="75" width="100" height="43">
+				<label>smile</label>
+			</box>
+		</image>
+		<image file="cropped/33b.png" width="250" height="250">
+			<box top="105" left="74" width="100" height="39">
+				<label>smile</label>
+			</box>
+		</image>
+		<image file="cropped/34b.png" width="250" height="250">
+			<box top="95" left="75" width="100" height="60">
+				<label>smile</label>
+			</box>
+		</image>
+		<image file="cropped/35b.png" width="250" height="250">
+			<box top="101" left="74" width="100" height="49">
+				<label>smile</label>
+			</box>
+		</image>
+		<image file="cropped/36b.png" width="250" height="250">
+			<box top="108" left="74" width="100" height="34">
+				<label>smile</label>
+			</box>
+		</image>
+		<image file="cropped/37b.png" width="250" height="250">
+			<box top="107" left="74" width="100" height="37">
+				<label>smile</label>
+			</box>
+		</image>
+		<image file="cropped/38b.png" width="250" height="250">
+			<box top="105" left="74" width="100" height="40">
+				<label>smile</label>
+			</box>
+		</image>
+		<image file="cropped/39b.png" width="250" height="250">
+			<box top="102" left="75" width="100" height="44">
+				<label>smile</label>
+			</box>
+		</image>
+		<image file="cropped/3b.png" width="250" height="250">
+			<box top="108" left="74" width="100" height="35">
+				<label>smile</label>
+			</box>
+		</image>
+		<image file="cropped/40b.png" width="250" height="250">
+			<box top="104" left="74" width="100" height="43">
+				<label>smile</label>
+			</box>
+		</image>
+		<image file="cropped/41b.png" width="250" height="250">
+			<box top="99" left="75" width="100" height="52">
+				<label>smile</label>
+			</box>
+		</image>
+		<image file="cropped/42b.png" width="250" height="250">
+			<box top="104" left="74" width="100" height="43">
+				<label>smile</label>
+			</box>
+		</image>
+		<image file="cropped/43b.png" width="250" height="250">
+			<box top="102" left="74" width="100" height="45">
+				<label>smile</label>
+			</box>
+		</image>
+		<image file="cropped/44b.png" width="250" height="250">
+			<box top="99" left="75" width="100" height="51">
+				<label>smile</label>
+			</box>
+		</image>
+		<image file="cropped/45b.png" width="250" height="250">
+			<box top="99" left="75" width="100" height="52">
+				<label>smile</label>
+			</box>
+		</image>
+		<image file="cropped/46b.png" width="250" height="250">
+			<box top="99" left="75" width="100" height="51">
+				<label>smile</label>
+			</box>
+		</image>
+		<image file="cropped/47b.png" width="250" height="250">
+			<box top="100" left="74" width="100" height="50">
+				<label>smile</label>
+			</box>
+		</image>
+		<image file="cropped/48b.png" width="250" height="250">
+			<box top="101" left="74" width="100" height="47">
+				<label>smile</label>
+			</box>
+		</image>
+		<image file="cropped/49b.png" width="250" height="250">
+			<box top="105" left="75" width="100" height="39">
+				<label>smile</label>
+			</box>
+		</image>
+		<image file="cropped/50b.png" width="250" height="250">
+			<box top="101" left="74" width="100" height="47">
+				<label>smile</label>
+			</box>
+		</image>
+		<image file="cropped/51b.png" width="250" height="250">
+			<box top="104" left="74" width="100" height="42">
+				<label>smile</label>
+			</box>
+		</image>
+		<image file="cropped/52b.png" width="250" height="250">
+			<box top="106" left="74" width="100" height="38">
+				<label>smile</label>
+			</box>
+		</image>
+		<image file="cropped/53b.png" width="250" height="250">
+			<box top="106" left="74" width="100" height="38">
+				<label>smile</label>
+			</box>
+		</image>
+		<image file="cropped/54b.png" width="250" height="250">
+			<box top="97" left="74" width="100" height="54">
+				<label>smile</label>
+			</box>
+		</image>
+		<image file="cropped/55b.png" width="250" height="250">
+			<box top="93" left="75" width="100" height="63">
+				<label>smile</label>
+			</box>
+		</image>
+		<image file="cropped/56b.png" width="250" height="250">
+			<box top="97" left="75" width="100" height="55">
+				<label>smile</label>
+			</box>
+		</image>
+		<image file="cropped/57b.png" width="250" height="250">
+			<box top="98" left="75" width="100" height="55">
+				<label>smile</label>
+			</box>
+		</image>
+		<image file="cropped/58b.png" width="250" height="250">
+			<box top="106" left="74" width="100" height="37">
+				<label>smile</label>
+			</box>
+		</image>
+		<image file="cropped/59b.png" width="250" height="250">
+			<box top="101" left="74" width="100" height="47">
+				<label>smile</label>
+			</box>
+		</image>
+		<image file="cropped/5b.png" width="250" height="250">
+			<box top="111" left="74" width="100" height="28">
+				<label>smile</label>
+			</box>
+		</image>
+		<image file="cropped/60b.png" width="250" height="250">
+			<box top="100" left="75" width="100" height="51">
+				<label>smile</label>
+			</box>
+		</image>
+		<image file="cropped/61b.png" width="250" height="250">
+			<box top="98" left="74" width="100" height="53">
+				<label>smile</label>
+			</box>
+		</image>
+		<image file="cropped/62b.png" width="250" height="250">
+			<box top="102" left="74" width="100" height="45">
+				<label>smile</label>
+			</box>
+		</image>
+		<image file="cropped/63b.png" width="250" height="250">
+			<box top="104" left="75" width="100" height="41">
+				<label>smile</label>
+			</box>
+		</image>
+		<image file="cropped/64b.png" width="250" height="250">
+			<box top="100" left="74" width="100" height="50">
+				<label>smile</label>
+			</box>
+		</image>
+		<image file="cropped/65b.png" width="250" height="250">
+			<box top="99" left="74" width="100" height="52">
+				<label>smile</label>
+			</box>
+		</image>
+		<image file="cropped/66b.png" width="250" height="250">
+			<box top="110" left="74" width="100" height="29">
+				<label>smile</label>
+			</box>
+		</image>
+		<image file="cropped/67b.png" width="250" height="250">
+			<box top="107" left="74" width="100" height="35">
+				<label>smile</label>
+			</box>
+		</image>
+		<image file="cropped/68b.png" width="250" height="250">
+			<box top="101" left="75" width="100" height="48">
+				<label>smile</label>
+			</box>
+		</image>
+		<image file="cropped/69b.png" width="250" height="250">
+			<box top="102" left="75" width="100" height="46">
+				<label>smile</label>
+			</box>
+		</image>
+		<image file="cropped/6b.png" width="250" height="250">
+			<box top="107" left="74" width="100" height="35">
+				<label>smile</label>
+			</box>
+		</image>
+		<image file="cropped/70b.png" width="250" height="250">
+			<box top="103" left="75" width="100" height="42">
+				<label>smile</label>
+			</box>
+		</image>
+		<image file="cropped/71b.png" width="250" height="250">
+			<box top="103" left="74" width="100" height="42">
+				<label>smile</label>
+			</box>
+		</image>
+		<image file="cropped/72b.png" width="250" height="250">
+			<box top="104" left="74" width="100" height="42">
+				<label>smile</label>
+			</box>
+		</image>
+		<image file="cropped/73b.png" width="250" height="250">
+			<box top="104" left="74" width="100" height="41">
+				<label>smile</label>
+			</box>
+		</image>
+		<image file="cropped/74b.png" width="250" height="250">
+			<box top="104" left="74" width="100" height="43">
+				<label>smile</label>
+			</box>
+		</image>
+		<image file="cropped/75b.png" width="250" height="250">
+			<box top="103" left="75" width="100" height="44">
+				<label>smile</label>
+			</box>
+		</image>
+		<image file="cropped/76b.png" width="250" height="250">
+			<box top="104" left="74" width="100" height="41">
+				<label>smile</label>
+			</box>
+		</image>
+		<image file="cropped/77b.png" width="250" height="250">
+			<box top="103" left="74" width="100" height="44">
+				<label>smile</label>
+			</box>
+		</image>
+		<image file="cropped/78b.png" width="250" height="250">
+			<box top="101" left="74" width="100" height="48">
+				<label>smile</label>
+			</box>
+		</image>
+		<image file="cropped/79b.png" width="250" height="250">
+			<box top="103" left="75" width="100" height="43">
+				<label>smile</label>
+			</box>
+		</image>
+		<image file="cropped/7b.png" width="250" height="250">
+			<box top="104" left="74" width="100" height="43">
+				<label>smile</label>
+			</box>
+		</image>
+		<image file="cropped/80b.png" width="250" height="250">
+			<box top="104" left="74" width="100" height="42">
+				<label>smile</label>
+			</box>
+		</image>
+		<image file="cropped/81b.png" width="250" height="250">
+			<box top="101" left="75" width="100" height="46">
+				<label>smile</label>
+			</box>
+		</image>
+		<image file="cropped/82b.png" width="250" height="250">
+			<box top="98" left="75" width="99" height="54">
+				<label>smile</label>
+			</box>
+		</image>
+		<image file="cropped/83b.png" width="250" height="250">
+			<box top="104" left="74" width="100" height="43">
+				<label>smile</label>
+			</box>
+		</image>
+		<image file="cropped/84b.png" width="250" height="250">
+			<box top="101" left="75" width="100" height="47">
+				<label>smile</label>
+			</box>
+		</image>
+		<image file="cropped/85b.png" width="250" height="250">
+			<box top="102" left="75" width="100" height="45">
+				<label>smile</label>
+			</box>
+		</image>
+		<image file="cropped/86b.png" width="250" height="250">
+			<box top="109" left="74" width="100" height="33">
+				<label>smile</label>
+			</box>
+		</image>
+		<image file="cropped/87b.png" width="250" height="250">
+			<box top="105" left="75" width="100" height="41">
+				<label>smile</label>
+			</box>
+		</image>
+		<image file="cropped/88b.png" width="250" height="250">
+			<box top="100" left="75" width="100" height="49">
+				<label>smile</label>
+			</box>
+		</image>
+		<image file="cropped/89b.png" width="250" height="250">
+			<box top="104" left="74" width="100" height="42">
+				<label>smile</label>
+			</box>
+		</image>
+		<image file="cropped/8b.png" width="250" height="250">
+			<box top="105" left="75" width="100" height="39">
+				<label>smile</label>
+			</box>
+		</image>
+		<image file="cropped/90b.png" width="250" height="250">
+			<box top="100" left="75" width="100" height="51">
+				<label>smile</label>
+			</box>
+		</image>
+		<image file="cropped/91b.png" width="250" height="250">
+			<box top="107" left="74" width="100" height="35">
+				<label>smile</label>
+			</box>
+		</image>
+		<image file="cropped/92b.png" width="250" height="250">
+			<box top="99" left="75" width="100" height="51">
+				<label>smile</label>
+			</box>
+		</image>
+		<image file="cropped/93b.png" width="250" height="250">
+			<box top="102" left="74" width="100" height="45">
+				<label>smile</label>
+			</box>
+		</image>
+		<image file="cropped/94b.png" width="250" height="250">
+			<box top="103" left="74" width="100" height="42">
+				<label>smile</label>
+			</box>
+		</image>
+		<image file="cropped/95b.png" width="250" height="250">
+			<box top="102" left="74" width="100" height="44">
+				<label>smile</label>
+			</box>
+		</image>
+		<image file="cropped/96b.png" width="250" height="250">
+			<box top="105" left="74" width="100" height="40">
+				<label>smile</label>
+			</box>
+		</image>
+		<image file="cropped/97b.png" width="250" height="250">
+			<box top="100" left="74" width="100" height="48">
+				<label>smile</label>
+			</box>
+		</image>
+		<image file="cropped/98b.png" width="250" height="250">
+			<box top="100" left="75" width="100" height="51">
+				<label>smile</label>
+			</box>
+		</image>
+		<image file="cropped/99b.png" width="250" height="250">
+			<box top="100" left="75" width="100" height="48">
+				<label>smile</label>
+			</box>
+		</image>
+		<image file="cropped/9b.png" width="250" height="250">
+			<box top="93" left="75" width="100" height="65">
+				<label>smile</label>
+			</box>
+		</image>
+	</images>
+</dataset>
